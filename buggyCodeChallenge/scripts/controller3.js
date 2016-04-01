@@ -9,7 +9,7 @@ prob1.innerHTML = "Hello";
              Problem 2
 ************************************/
 var prob2 = document.getElementById('problem2');
-prob2.innerHMTL = imaObject.name + immaObject.state;
+prob2.innerHMTL = immaObject.name + immaObject.state;
 
 /************************************
              Problem 3
